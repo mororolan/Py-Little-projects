@@ -14,6 +14,7 @@ Py = Please Try （雾很大
 * Tkinter
 * Image
 
+![image](http://github.com/mororolan/Py-Little-projects/raw/master/test.jpg)
 
 ### 项目② baidu音乐爬虫的学习与实战  #Spider
 
