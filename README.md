@@ -7,12 +7,11 @@ Py = Please Try （雾很大
 ### 项目① 用Python实现噪点图像的生成 
 生成一张320*240的随机黑白噪点图，并且在程序里显示FPS性能，FPS（frame per second）
 参考如下：
->
-需要调的包：
-* time
-* random
-* Tkinter
-* Image
+>需要调的包：<br>
+* time<br>
+* random<br>
+* Tkinter<br>
+* Image<br>
 
 ![试着插图啦](https://github.com/mororolan/Py-Little-projects/raw/master/test.png)
 
