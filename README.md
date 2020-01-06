@@ -3,7 +3,7 @@
 ### Project #1
 - Time：201903
 - Level：So easy
-- 生成一张320*240的随机黑白噪点图，并且在程序里显示FPS性能，FPS（frame per second）
+- Content：生成一张320*240的随机黑白噪点图，并且在程序里显示FPS性能，FPS（frame per second）
 ![试着插图啦](https://github.com/mororolan/Py-Little-projects/raw/master/test.png)
 
 ### Project #2 baidu music spider
